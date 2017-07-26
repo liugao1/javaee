@@ -1,0 +1,23 @@
+  /* 向左的箭头 */    
+        .glyphicon{  
+            cursor: pointer;  
+        }  
+        .dot-left {    
+            font-size: 0;    
+            line-height: 0;    
+            border-width: 5px;    
+            border-color: #f37a0e;    
+            border-left-width: 0;    
+            border-style: dashed;    
+            border-right-style: solid;    
+            border-top-color: transparent;    
+            border-bottom-color: transparent;    
+            display: inline-block;  
+        }   
+        /* 文字提示框 */  
+        .tip{  
+            background: #f37a0e;  
+            padding: 0 5px;  
+            display: inline-block;  
+            border-radius: 5px;  
+        }  
